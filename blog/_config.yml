@@ -1,20 +1,6 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Ashwin's Blog
 email: ashwin67@gmail.com
+simple_search: http://google.com/search
 description: >- # this means to ignore newlines until "baseurl:"
   42
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -24,9 +10,10 @@ github_username:  ashwin67
 
 # Build settings
 markdown: kramdown
-theme: jekyll-athena
-plugins:
-  - jekyll-feed
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+#theme: jekyll-athena
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -39,3 +26,22 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#permalink: /articles/:short_year/:title
+#timezone: America/New_York
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+editor: gvim
+git:
+  branch: master
+#transfer:
+#  command: rsync
+#  settings: -av
+#  source: _site/
+#  destination: ~/Git/clayh53.github.com/

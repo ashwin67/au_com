@@ -63,6 +63,7 @@ DEPENDENCIES
   jekyll (~> 3.7.3)
   jekyll-athena
   jekyll-feed (~> 0.6)
+  rouge
   tzinfo-data
 
 BUNDLED WITH
