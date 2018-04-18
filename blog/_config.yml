@@ -10,6 +10,8 @@ github_username:  ashwin67
 
 # Build settings
 markdown: kramdown
+kramdown:
+   input: GFM
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 #theme: jekyll-athena
 #plugins:
