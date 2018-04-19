@@ -17,18 +17,6 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 #plugins:
 #  - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
 #permalink: /articles/:short_year/:title
 #timezone: America/New_York
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
@@ -39,9 +27,9 @@ post:
 page:
   template: _page.txt
   extension: md
-editor: gvim
-git:
-  branch: master
+#editor: gvim
+#git:
+#  branch: master
 #transfer:
 #  command: rsync
 #  settings: -av
