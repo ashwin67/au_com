@@ -10,12 +10,6 @@ password: ''
 status: publish
 categories:
 - New
-
-
-
-
-
-
 ---
 In the last one year, my journey took a completely strange course. One thing led to another and I ended up in Netherlands!<!--more--> And it is a good country. In fact, [the goodest country of 2018](https://www.goodcountryindex.org/results). So, what is great about this place?
 
