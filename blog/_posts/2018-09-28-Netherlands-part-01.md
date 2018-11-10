@@ -2,6 +2,7 @@
 layout: post
 title: Netherlands - Part 1
 date: 2018-09-18
+img: cycling_in_netherlands.jpg
 type: post
 parent_id: '0'
 published: true
@@ -9,12 +10,12 @@ password: ''
 status: publish
 categories:
 - New
-author:
-  login: ashwin67
-  email: ashwin67@gmail.com
-  display_name: ashwin67
-  first_name: Ashwin
-  last_name: Upadhyaya
+
+
+
+
+
+
 ---
 In the last one year, my journey took a completely strange course. One thing led to another and I ended up in Netherlands!<!--more--> And it is a good country. In fact, [the goodest country of 2018](https://www.goodcountryindex.org/results). So, what is great about this place?
 

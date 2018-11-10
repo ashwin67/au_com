@@ -1,30 +1,28 @@
+---
+layout: compress
+--- 
+
 <!DOCTYPE html>
 <html>
+
   {% include head.html %}
+
   <body>
+
     {% include header.html %}
-    <article class="group">
-      {{ content }}
-    </article>
-<br>
-<div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-this.page.url = 'https://ashwinupadhyaya.com';  
-this.page.identifier = '{{ page.url | absolute_url }}'; 
-};
 
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://ashwins-blog.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>                            
-<br>
+    <div class="container">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
 
-    {% include print-footer.html %}
     {% include footer.html %}
+    
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+ {% if site.analytics %}{% include analytics.html %}{% endif %}
   </body>
+
 </html>
