@@ -2,7 +2,7 @@
 layout: post
 title: Netherlands - Part 1
 date: 2018-09-18
-img: cycling_in_netherlands.jpg
+img: thumbnails/cycling_in_netherlands.jpg
 type: post
 parent_id: '0'
 published: true
