@@ -29,8 +29,8 @@ paginate_path: /page:num/
 #analytics: UA-83979019-1
 
 # Comments
-#disqus: yes
-#disqus-shortname: webjeda-demo
+disqus: yes
+disqus-shortname: ashwins-blog
 
 #social
 twitter: http://twitter.com/@ashwin67
