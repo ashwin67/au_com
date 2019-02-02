@@ -21,22 +21,17 @@ jobs:
                 command: gem install bundler --version=1.17.1
 
     Jekyll-build:
+        working_directory: blog
         docker:
             - image: circleci/ruby:2.4
         steps:
             - checkout
             - run:
                 name: Install rubygems
-                command: bundle install --gemfile blog/Gemfile
-            - run:
-                name: Go into blog directory
-                command: cd blog
+                command: bundle install --gemfile Gemfile
             - run:
                 name: Build Jekyll
                 command: bundle exec jekyll build --verbose
-            - run:
-                name: Get back to firebase directory
-                command: cd ..
 
     Firebase-build:
         docker:
