@@ -29,6 +29,9 @@ jobs:
                 name: Go into blog directory
                 command: cd blog
             - run:
+                name: Install rubygems
+                command: bundle install
+            - run:
                 name: Build Jekyll
                 command: bundle exec jekyll build --verbose
             - run:
