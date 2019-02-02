@@ -28,6 +28,7 @@ jobs:
         docker:
             #https://circleci.com/docs/2.0/circleci-images/
             - image: circleci/node:7.10
+        working_directory: ./
         steps:
             - run:
                 name: Install Firebase tools if not installed
