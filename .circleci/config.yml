@@ -27,7 +27,7 @@ jobs:
             - checkout
             - run:
                 name: Install rubygems
-                command: bundle install bundle install --gemfile blog/Gemfile
+                command: bundle install --gemfile blog/Gemfile
             - run:
                 name: Go into blog directory
                 command: cd blog
