@@ -4,27 +4,27 @@
 #
 version: 2
 jobs:
-  build:
+  Firebase-Install:
     docker:
-      # specify the version you desire here
       - image: circleci/node:7.10
-
-      # Specify service dependencies here if necessary
-      # CircleCI maintains a library of pre-built images
-      # documented at https://circleci.com/docs/2.0/circleci-images/
-      - image: circleci/ruby:2.4
-
     steps:
-      - checkout
-
       - run:
           name: Install Firebase tools if not installed
           command: npm install --save-dev firebase-tools
 
+  Bundle-Install:
+    docker:
+      - image: circleci/ruby:2.4
+    steps:
       - run:
           name: Install bundle
           command: gem install bundler
 
+  Jekyll-build:
+    docker:
+      - image: circleci/ruby:2.4
+    steps:
+      - checkout
       - run:
           name: Go into blog directory
           command: cd blog
@@ -34,6 +34,12 @@ jobs:
       - run:
           name: Get back to firebase directory
           command: cd ..
+
+  Firebase-build:
+    docker:
+      #https://circleci.com/docs/2.0/circleci-images/
+      - image: circleci/node:7.10
+    steps:
       - run:
           name: Deploy to Firebase
           command: firebase deploy --token=$FIREBASE_TOKEN --non-interactive
