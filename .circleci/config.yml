@@ -3,56 +3,56 @@
 # Check https://circleci.com/docs/2.0/language-javascript/ for more details
 #
 version: 2
-    jobs:
-      Firebase-Install:
+jobs:
+    Firebase-Install:
         docker:
-          - image: circleci/node:7.10
+            - image: circleci/node:7.10
         steps:
-          - run:
-              name: Install Firebase tools if not installed
-              command: npm install --save-dev firebase-tools
+            - run:
+                name: Install Firebase tools if not installed
+                command: npm install --save-dev firebase-tools
 
-      Bundle-Install:
+    Bundle-Install:
         docker:
-          - image: circleci/ruby:2.4
+            - image: circleci/ruby:2.4
         steps:
-          - run:
-              name: Install bundle
-              command: gem install bundler
+            - run:
+                name: Install bundle
+                command: gem install bundler
 
-      Jekyll-build:
+    Jekyll-build:
         docker:
-          - image: circleci/ruby:2.4
+            - image: circleci/ruby:2.4
         steps:
-          - checkout
-          - run:
-              name: Go into blog directory
-              command: cd blog
-          - run:
-              name: Build Jekyll
-              command: bundle exec jekyll build --verbose
-          - run:
-              name: Get back to firebase directory
-              command: cd ..
+            - checkout
+            - run:
+                name: Go into blog directory
+                command: cd blog
+            - run:
+                name: Build Jekyll
+                command: bundle exec jekyll build --verbose
+            - run:
+                name: Get back to firebase directory
+                command: cd ..
 
-      Firebase-build:
+    Firebase-build:
         docker:
-          #https://circleci.com/docs/2.0/circleci-images/
-          - image: circleci/node:7.10
+            #https://circleci.com/docs/2.0/circleci-images/
+            - image: circleci/node:7.10
         steps:
-          - run:
-              name: Deploy to Firebase
-              command: firebase deploy --token=$FIREBASE_TOKEN --non-interactive
+            - run:
+                name: Deploy to Firebase
+                command: firebase deploy --token=$FIREBASE_TOKEN --non-interactive
 
 workflows:
- version: 2
- Example_Workflow:
-   jobs:
-     - Firebase-Install
-     - Bundle-Install:
-     - Jekyll-build:
-         requires:
-           - Bundle-Install
-     - Firebase-build:
-         requires:
-           - Jekyll-build
+    version: 2
+    Example_Workflow:
+        jobs:
+            - Firebase-Install
+            - Bundle-Install:
+            - Jekyll-build:
+                requires:
+                    - Bundle-Install
+            - Firebase-build:
+                requires:
+                    - Jekyll-build
