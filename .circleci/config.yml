@@ -17,19 +17,19 @@ jobs:
     steps:
       - checkout
 
-      -run:
+      - run:
           name: Install Firebase tools if not installed
           command: npm install --save-dev firebase-tools
 
-      -run:
+      - run:
           name: Go into blog directory
           command: cd blog
-      -run:
+      - run:
           name: Build Jekyll
           command: bundle exec jekyll build --verbose
-      -run:
+      - run:
           name: Get back to firebase directory
           command: cd ..
-      -run:
+      - run:
           name: Deploy to Firebase
           command: firebase deploy --token=$FIREBASE_TOKEN --non-interactive
