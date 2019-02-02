@@ -12,7 +12,7 @@ jobs:
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
       # documented at https://circleci.com/docs/2.0/circleci-images/
-      - image: circleci/ruby:2.4-jessie-browsers-legacy
+      - image: circleci/ruby:2.4
 
     steps:
       - checkout
@@ -24,7 +24,7 @@ jobs:
       - run:
           name: Install bundle
           command: gem install bundler
-          
+
       - run:
           name: Go into blog directory
           command: cd blog
