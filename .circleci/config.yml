@@ -49,7 +49,7 @@ workflows:
     Example_Workflow:
         jobs:
             - Firebase-Install
-            - Bundle-Install:
+            - Bundle-Install
             - Jekyll-build:
                 requires:
                     - Bundle-Install
