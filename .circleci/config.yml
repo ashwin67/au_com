@@ -21,7 +21,7 @@ jobs:
     - persist_to_workspace:
         root: blog
         paths:
-            - _sites
+            - _site
   Firebase-Install-and-Build:
     docker:
     - image: circleci/node:7.10
