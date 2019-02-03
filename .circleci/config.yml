@@ -31,7 +31,7 @@ jobs:
         at: /tmp/workspace
     - run:
         name: Copy files from workspace
-        command: cp -r /tmp/workspace/_sites blog
+        command: cp -r /tmp/workspace/_site blog
     - run:
         name: Install Firebase tools if not installed
         command: npm install --save-dev firebase-tools@4.2.1
