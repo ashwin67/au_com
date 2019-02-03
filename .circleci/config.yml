@@ -12,9 +12,11 @@ jobs:
                 name: Install bundle
                 command: gem install bundler --version=1.17.1
 
-    Jekyll-build:
+    Firebase-Install-and-Build:
         docker:
-            - image: circleci/ruby:2.4
+            #https://circleci.com/docs/2.0/circleci-images/
+            - image: circleci/node:7.10
+
         steps:
             - checkout
             - run:
@@ -23,14 +25,6 @@ jobs:
             - run:
                 name: Build Jekyll
                 command: cd blog && bundle exec jekyll build --verbose
-
-    Firebase-Install-and-Build:
-        docker:
-            #https://circleci.com/docs/2.0/circleci-images/
-            - image: circleci/node:7.10
-
-        steps:
-            - checkout
             - run:
                 name: Install Firebase tools if not installed
                 command: npm install --save-dev firebase-tools@4.2.1
@@ -43,9 +37,6 @@ workflows:
     Example_Workflow:
         jobs:
             - Bundle-Install
-            - Jekyll-build:
-                requires:
-                    - Bundle-Install
             - Firebase-Install-and-Build:
                 requires:
-                    - Jekyll-build
+                    - Bundle-Install
