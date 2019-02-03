@@ -28,7 +28,9 @@ jobs:
         docker:
             #https://circleci.com/docs/2.0/circleci-images/
             - image: circleci/node:7.10
+
         steps:
+            - checkout
             - run:
                 name: Install Firebase tools if not installed
                 command: npm install --save-dev firebase-tools@4.2.1
