@@ -19,16 +19,19 @@ jobs:
         name: Build Jekyll
         command: cd blog && bundle exec jekyll build --verbose
     - persist_to_workspace:
-        root: /tmp/blog
+        root: blog
         paths:
-            - blog/_sites
+            - _sites
   Firebase-Install-and-Build:
     docker:
     - image: circleci/node:7.10
     steps:
     - checkout
     - attach_workspace:
-        at: /tmp/blog
+        at: /tmp/workspace
+    - run:
+        name: Copy files from workspace
+        command: cp -r /tmp/workspace/_sites blog
     - run:
         name: Install Firebase tools if not installed
         command: npm install --save-dev firebase-tools@4.2.1
