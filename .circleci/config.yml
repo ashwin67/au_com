@@ -4,21 +4,17 @@
 #
 version: 2
 jobs:
-    Bundle-Install:
-        docker:
-            - image: circleci/ruby:2.4
-        steps:
-            - run:
-                name: Install bundle
-                command: gem install bundler --version=1.17.1
-
     Firebase-Install-and-Build:
         docker:
             #https://circleci.com/docs/2.0/circleci-images/
             - image: circleci/node:7.10
+            - image: circleci/ruby:2.4
 
         steps:
             - checkout
+            - run:
+                name: Install bundle
+                command: gem install bundler --version=1.17.1
             - run:
                 name: Install rubygems
                 command: cd blog && bundle install
@@ -36,7 +32,4 @@ workflows:
     version: 2
     Example_Workflow:
         jobs:
-            - Bundle-Install
-            - Firebase-Install-and-Build:
-                requires:
-                    - Bundle-Install
+            - Firebase-Install-and-Build
