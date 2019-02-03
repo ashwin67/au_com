@@ -13,6 +13,7 @@ jobs:
             - run:
                 name: Install Firebase tools if not installed
                 command: npm install --save-dev firebase-tools@4.2.1
+            - run: sleep 20
             - run:
                 name: Install bundle
                 command: gem install bundler --version=1.17.1
