@@ -39,6 +39,7 @@ workflows:
     version: 2
     Example_Workflow:
         jobs:
+            - Get-Docker-Images
             - Firebase-Install-and-Build:
                 requires:
                     Get-Docker-Images
