@@ -19,7 +19,9 @@ This post is about how I write my blog posts using markdown, push it to bitbucke
 
 Summary: To setup the above chain, I used a laptop without which debugging would have been a pain. Once past the setup phase, I am able to now create a new text file on my phone, write some contents and push it to my bitbucket repository. CircleCI then gets this push notification and immediately builds it. The source in the repository is based on Jekyll. CircleCI builds this source and creates html pages out of this. CircleCI then deploys the built html files to firebase resulting in a site like this.
 
-I am not going to rewrite the whole process again, so I will just point to this good blog I referred to: https://chris.banes.me/2017/06/02/jekyll-firebase/
+I am not going to rewrite the whole process 
+again, so I will just point to this good blog I 
+referred to: [https://chris.banes.me/2017/06/02/jekyll-firebase/]
 There are some differences you need to take care though. One of the biggest differences is that circleCI is now version 2.0 and hence the configuration needs to be different. Following is my configuration: [Gist Yml configuration](https://gist.github.com/ashwin67/76065e3f95d187b03290bb36f387e3f2).
 Probably this configuration could be optimized further to cache some things and run the build faster. One important aspect to note when running the jobs in circleCI is that each of the jobs is independent and data is not shared between them unless you do it specifically. My configuration above takes care of that.
 
