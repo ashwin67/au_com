@@ -21,7 +21,8 @@ Summary: To setup the above chain, I used a laptop without which debugging would
 
 I am not going to rewrite the whole process 
 again, so I will just point to this good blog I 
-referred to: [https://chris.banes.me/2017/06/02/jekyll-firebase/]
+referred to: 
+<https://chris.banes.me/2017/06/02/jekyll-firebase/>
 There are some differences you need to take care though. One of the biggest differences is that circleCI is now version 2.0 and hence the configuration needs to be different. Following is my configuration: [Gist Yml configuration](https://gist.github.com/ashwin67/76065e3f95d187b03290bb36f387e3f2).
 Probably this configuration could be optimized further to cache some things and run the build faster. One important aspect to note when running the jobs in circleCI is that each of the jobs is independent and data is not shared between them unless you do it specifically. My configuration above takes care of that.
 
