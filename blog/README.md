@@ -6,3 +6,5 @@ Demo: [http://webjeda.com/cards](http://webjeda.com/cards)
 * Your new site should be ready.
 
 For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
+
+push to deploy should work now
