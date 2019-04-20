@@ -11,7 +11,7 @@ status: publish
 categories:
 - New
 ---
-In Europe, there is no reason not to go cycling when the sun shines and the scenary is so beautiful. Lush green fields, forests, rivers and a cycling path laid everywhere.
+In Europe, there is no reason not to go cycling when the sun shines and the scenery is so beautiful. Lush green fields, forests, rivers and a cycling path laid everywhere.
 
 ![Somewhere in Germany](/assets/cycling_europe/germany.jpg "Somewhere in Germany")
 Somewhere in Germany
