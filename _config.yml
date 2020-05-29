@@ -20,7 +20,17 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 
 
 # Build settings
-markdown: kramdown
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+#markdown: kramdown
 permalink: /:title/
 paginate: 6
 paginate_path: /page:num/
@@ -29,16 +39,16 @@ paginate_path: /page:num/
 #analytics: UA-83979019-1
 
 # Comments
-disqus: yes
-disqus-shortname: ashwins-blog
+#disqus: yes
+#disqus-shortname: ashwins-blog
 
 #social
-twitter: http://twitter.com/@ashwin67
-github: http://github.com/ashwin67
+#twitter: http://twitter.com/@ashwin67
+#github: http://github.com/ashwin67
 
 # Sass style
-sass:
-  style: compressed
+#sass:
+#  style: compressed
 
 # Ruby Gems
 plugins: [jekyll-paginate, jekyll-seo-tag]
