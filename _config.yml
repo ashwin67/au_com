@@ -44,7 +44,7 @@ disqus-shortname: ashwins-blog
 
 #social
 twitter: http://twitter.com/@ashwin67
-github: http://github.com/ashwin67
+#github: http://github.com/ashwin67
 
 # Sass style
 sass:
