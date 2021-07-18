@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashwin's Blog</title>
+    <description>42
+</description>
+    <link>https://ashwinupadhyaya.com/</link>
+    <atom:link href="https://ashwinupadhyaya.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 18 Jul 2021 05:27:33 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Jul 2021 05:27:33 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Electric car charging</title>
+        <description>&lt;p&gt;Electric cars are great. Except for the upfront cost of buying the car, every other aspect is great. One of the most important considerations is about the charging infrastructure. We bought the car more than 3 months back and learnt several new things.&lt;/p&gt;
+
+&lt;h2 id=&quot;range-anxiety-is-a-non-issue&quot;&gt;Range anxiety is a non issue!&lt;/h2&gt;
+
+&lt;p&gt;Every day, we drive the car for 150kms. Typically, there is still 250kms of range left in the evening. Just like we charge our phone, we charge the car in the evening for 2 hours and it is full again. On work days, we never think of running out of battery at all. Compared to our petrol car, we save a few minutes every week from the petrol pump visit.&lt;/p&gt;
+
+&lt;h2 id=&quot;long-drives-require-some-planning&quot;&gt;Long drives require some planning.&lt;/h2&gt;
+
+&lt;p&gt;We made two long distance trips where we had to stop for a recharge. There were several Tesla superchargers on the way and we stopped at one where we could have lunch as well. On the return journey, we stopped at another for a coffee. A coffee break of 20 - 30 minutes typically adds about 200kms of range and does not feel like time wasted.&lt;/p&gt;
+
+&lt;h2 id=&quot;charging-infrastructure-at-home&quot;&gt;Charging infrastructure at home.&lt;/h2&gt;
+
+&lt;p&gt;This is one issue for which I spent a lot of time to solve. Typically, all the car companies show how easy it is to charge but they always show houses with a driveway or a garage. What does one do if that is not an option? At my home, I had to build this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/diy/car_charging.jpg&quot; alt=&quot;Car charging infra&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I have a garage but it is too tight for the car and I wouldn’t be able to use the garage for anything of my hobbies. The municipality provides public charging points but that will not be in front of my house. Laying cables on the footpath is not legal and would also be irresponsible of me. So, the solution was to make a retractable cable hanger using some steel pipes and steel cables. It held up well during some winds and rains but I intend to build a better one in the future. The electrical installation itself is inside the house.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-interesting-aspects-of-an-electric&quot;&gt;Other interesting aspects of an electric&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We added some solar panels on our roof and hence we drive for free&lt;/li&gt;
+  &lt;li&gt;Based on the distance that we drive, the lifetime ownership cost is less than that of many petrol cars&lt;/li&gt;
+  &lt;li&gt;The battery drains off almost at double the usual rate if you drive at speeds greater than 160 km/hr&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+        <link>https://ashwinupadhyaya.com/car_charging/</link>
+        <guid isPermaLink="true">https://ashwinupadhyaya.com/car_charging/</guid>
+        
+        
+        <category>New</category>
+        
+      </item>
+    
+      <item>
+        <title>Social media and the erosion of truth</title>
+        <description>&lt;p&gt;Of all the changes in last decade, probably the biggest of consequence is the erosion of truth. Twenty years back, if a person told you that he believes the sky is just a curtain above us hiding aliens from us, he would have been laughed at. Today though, he could easily create a community of like-minded believers and feed on each other’s madness. Am I exaggerating? Just check the number of believers in &lt;a href=&quot;https://en.wikipedia.org/wiki/Modern_flat_Earth_societies&quot;&gt;a flat earth&lt;/a&gt; or the number of Qanon supporters.&lt;/p&gt;
+
+&lt;p&gt;The root of the problem lies in the ease with which information can spread today. A decade ago, that crazy dude in the street corner would talk nonsense which no one would have cared. Today though, he has a camera, facebook and a bunch of conspiracy theories running in his head all through the day. Let’s say only 1 in 1000 people are such “content creators”, you still have more than 7 million of such fully equipped crazy people in the world. Add to this, the people who can fall for lies. These are not bad people, just gullible ones. People have believed in superstitions all through human history without any basis in them. So, it is no wonder that they fall for lies and conspiracy theories. Even if only a small percentage of these gullible people spread the lies, it would be hundreds of millions of people considering that &lt;a href=&quot;https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide/&quot;&gt;close to 4 billion people own smartphones&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Although it is painful to watch even friends and family fall for conspiracy theories and lies, this probably is a passing phase in the history of humans. Superstititious or overly religious people have always confounded me but I can still live around them. I now consider these social-media-believers as another category of gullible people. Social reformers over the centuries have tried to rid people of superstitions and I believe we will need similar social reform for people to stop passing around lies and inculcate scientific skepticism. It is going to be hard but I believe this one will be a challenge that will be dealt with in the decades to come.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+        <link>https://ashwinupadhyaya.com/social_media_and_the_erosion_of_truth/</link>
+        <guid isPermaLink="true">https://ashwinupadhyaya.com/social_media_and_the_erosion_of_truth/</guid>
+        
+        
+        <category>New</category>
+        
+      </item>
+    
+      <item>
+        <title>News</title>
+        <description>&lt;p&gt;News has become a complicated issue now. Separating quality news from all the news is a hard thing. We humans tried to use technology to solve this overwhelming problem until we realized that artificial brains not just learned the job but also the biases of humans. They are only as good as the human who trains them. And we have fake news which means different things to different people. And good news has become quite expensive.&lt;/p&gt;
+
+&lt;p&gt;I remember the time when we had newspapers delivered at our home. I was still a kid but gathering news was quite easy. You had all the important stuff on page 1, sports on the last page, world news on the pages before the sports page, long reads in the centre pages etc. I could read the newspaper and just be done with everything going on in the world. Or at least what this particular newspaper editor had to say. And then came free news on the internet. That is when I understood that reading from multiple sources gave me a balanced story. And there were lots of news sources to choose from all over the world.&lt;/p&gt;
+
+&lt;p&gt;In the beginning, managing quality news was easy. I would bookmark a section of nytimes, subscribe to an author from the atlantic or just google to find a topic and then just choose a great source like WSJ. Everything was free and there were no boundaries to knowledge. It didn’t last long enough though. Paywalls started coming up. Search engines started to learn my patterns and showed “relevant” results. To top them off, the social media with its unlimited number of stories, fake and real started to overwhelm my senses.&lt;/p&gt;
+
+&lt;p&gt;That narrow period when great quality news was free was the golden era for readers. I don’t expect that to come back. But what are the alternate options right now? One, go back to the ‘Single Newspaper View’ where I just believe what that particular editor has to say. Second, spend a lot of money buying multiple news subscriptions from varied news channels. Third, read seemingly authentic freelance articles and risk believing in fake stuff. Another viewpoint I sometimes encounter is, why is news really important? Well, truth dies in darkness, doesn’t it?&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+        <link>https://ashwinupadhyaya.com/news/</link>
+        <guid isPermaLink="true">https://ashwinupadhyaya.com/news/</guid>
+        
+        
+        <category>New</category>
+        
+      </item>
+    
+      <item>
+        <title>The covid situation</title>
+        <description>&lt;p&gt;Until 2019, things looked bright everywhere. Millions of people coming out of poverty everywhere. GDP numbers of almost every country increasing year after year. Billionaires were increasing. The world seemed to be really marching at full speed. There were geopolitical issues and wars in some parts of the world threatening to slow this forward march. But who would have thought of a complete brake on the the world’s capitalistic machinery!&lt;/p&gt;
+
+&lt;p&gt;As I write, most of the world is still in a coma or is barely limping. I don’t remember of a time in my life when traveling anywhere was so difficult. With almost no flights, public transport severely restricted and everyone scared of each other, it would take many years before people could travel carefree again. Restaurants look like skeletons of their older self. Cinema halls probably are doomed forever. Sports is now restricted to television. Going to office is thoroughly discouraged. People wear masks everywhere. What a post-apocalyptic world we are living in!&lt;/p&gt;
+
+&lt;p&gt;Well, the problems I mention surely are not the problems of a vast majority. People have lost jobs, homes and many don’t even have food to eat. The crisis has hit different people in different ways similar to the depiction in the movie ‘Parasite’. All I see is the tip of the iceberg from my own window. Never have I felt so helpless about society in general. Maybe we could help by donating to organizations such as &lt;a href=&quot;https://covid19responsefund.org/en/&quot;&gt;WHO&lt;/a&gt; or &lt;a href=&quot;https://www.msf.org/donate&quot;&gt;MSF&lt;/a&gt;. Maybe it will help someone somewhere.&lt;/p&gt;
+
+&lt;p&gt;This crisis will be remembered for generations to come not just due to the deaths it caused. People may remember it for cultural reasons because of how it stopped handshakes. People may remember it for economic reasons because of the faults it exposed in the capitalistic models. We may remember it because of the political changes it caused in caused in several nations. We may remember it for the lifestyle changes it caused due to travel curbs. I just wish that it will also be a time when the world finally finds new cures for the bigger pandemics such as inequality and poverty.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+        <link>https://ashwinupadhyaya.com/the-covid-situation/</link>
+        <guid isPermaLink="true">https://ashwinupadhyaya.com/the-covid-situation/</guid>
+        
+        
+        <category>New</category>
+        
+      </item>
+    
+      <item>
+        <title>Cycling in Europe</title>
+        <description>&lt;p&gt;In Europe, there is no reason not to go cycling when the sun shines and the scenery is so beautiful. Lush green fields, forests, rivers and a cycling path laid everywhere.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cycling_europe/germany.jpg&quot; alt=&quot;Somewhere in Germany&quot; title=&quot;Somewhere in Germany&quot; /&gt;
+Somewhere in Germany&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cycling_europe/danube.jpg&quot; alt=&quot;Along the Danube&quot; title=&quot;Along the Danube&quot; /&gt;
+Along the Danube&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cycling_europe/village.jpg&quot; alt=&quot;Along Villages&quot; title=&quot;Along Villages&quot; /&gt;
+Along Villages&lt;/p&gt;
+
+&lt;p&gt;It also helps that the governments actually care a lot about cycling infrastructure. Dedicated cycling lanes, spaces in trains and even bridges for cycling ensure that cycling is quite safe.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cycling_europe/bridge.jpg&quot; alt=&quot;A cycling bridge in Eindhoven&quot; title=&quot;A cycling bridge in Eindhoven&quot; /&gt;
+A cycling bridge in Eindhoven&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cycling_europe/train.jpg&quot; alt=&quot;Bikes in trains&quot; title=&quot;Bikes in trains&quot; /&gt;
+Bikes in trains&lt;/p&gt;
+
+&lt;p&gt;In countries like the Netherlands and Denmark, cycling is not a hobby. It is just a way of life. Rain, snow, sun, wind, nothing stops the cyclist here.
+&lt;img src=&quot;/assets/cycling_europe/snow.jpg&quot; alt=&quot;Cycling in snow&quot; title=&quot;Cycling in snow&quot; /&gt;
+Cycling in snow&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cycling_europe/amsterdam.jpg&quot; alt=&quot;Bikes in Amsterdam&quot; title=&quot;Bikes in Amsterdam&quot; /&gt;
+The sheer number of bicycles in Amsterdam&lt;/p&gt;
+
+&lt;p&gt;I just wish this were true everywhere in the world.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+        <link>https://ashwinupadhyaya.com/Cycling-In-Europe/</link>
+        <guid isPermaLink="true">https://ashwinupadhyaya.com/Cycling-In-Europe/</guid>
+        
+        
+        <category>New</category>
+        
+      </item>
+    
+      <item>
+        <title>7 Things Italy</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;Venice - There is a reason why so many other cities call themselves “Venice of the &lt;em&gt;__&lt;/em&gt;”
+&lt;img src=&quot;/assets/Italy/venice.jpg&quot; alt=&quot;Venice&quot; title=&quot;Venice&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Burano - Live inside a colorful painting
+&lt;img src=&quot;/assets/Italy/burano.jpg&quot; alt=&quot;Burano&quot; title=&quot;Burano&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Murano - Glass made beautiful
+&lt;img src=&quot;/assets/Italy/murano.jpg&quot; alt=&quot;Murano&quot; title=&quot;Murano&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Vatican - The unimaginable richness of this place
+&lt;img src=&quot;/assets/Italy/vatican.jpg&quot; alt=&quot;Vatican&quot; title=&quot;Vatican&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Colosseum - Once a spectacle, still a spectacle
+&lt;img src=&quot;/assets/Italy/colosseum.jpg&quot; alt=&quot;Colosseum&quot; title=&quot;Colosseum&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Monuments - The modern ones try to compete with the ancient ones
+&lt;img src=&quot;/assets/Italy/altar.jpg&quot; alt=&quot;Altar of the fatherland&quot; title=&quot;Altar of the fatherland&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Streets - The streets are art themselves
+&lt;img src=&quot;/assets/Italy/streets.jpg&quot; alt=&quot;Streets&quot; title=&quot;Streets&quot; /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;But Italy is so much more than Rome and Venice. My money though afforded me only so much.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+        <link>https://ashwinupadhyaya.com/7-things-italy/</link>
+        <guid isPermaLink="true">https://ashwinupadhyaya.com/7-things-italy/</guid>
+        
+        
+        <category>New</category>
+        
+      </item>
+    
+      <item>
+        <title>7 Things Greece</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;Acropolis - See where democracy was born
+&lt;img src=&quot;/assets/greece/acropolis.jpg&quot; alt=&quot;Acropolis&quot; title=&quot;Acropolis&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Amphitheaters - Sit and imagine the past. Music, theater, dance.
+&lt;img src=&quot;/assets/greece/amphitheater.jpg&quot; alt=&quot;Amphitheater&quot; title=&quot;Amphitheater&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Delphi - Here you mix history with natural beauty and imagine ancient Greeks racing c.
+&lt;img src=&quot;/assets/greece/delphi.jpg&quot; alt=&quot;Delphi&quot; title=&quot;Delphi&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Santorini - If you like the color blue, then this is the place to go.
+&lt;img src=&quot;/assets/greece/santorini.jpg&quot; alt=&quot;Santorini&quot; title=&quot;Santorini&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Sea - Red, Black, White beaches and then the amazing color of the sea.
+&lt;img src=&quot;/assets/greece/sea.jpg&quot; alt=&quot;Sea&quot; title=&quot;Sea&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Boats - Wallpaper quality boats in which you can travel too.
+&lt;img src=&quot;/assets/greece/boat.jpg&quot; alt=&quot;Boat&quot; title=&quot;Boat&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Food - Eat Saganaki, Fava and drink Raki at picture perfect restaurants.
+&lt;img src=&quot;/assets/greece/restaurant.jpg&quot; alt=&quot;Restaurant&quot; title=&quot;Restaurant&quot; /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;What not to miss in Greece - Sunset at Oia, a glass of Vin Santo at a restaurant overlooking the sea at Fira, contemplation atop the Acropolis.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+        <link>https://ashwinupadhyaya.com/7-things-greece/</link>
+        <guid isPermaLink="true">https://ashwinupadhyaya.com/7-things-greece/</guid>
+        
+        
+        <category>New</category>
+        
+      </item>
+    
+      <item>
+        <title>Blogging from my phone with Git and Nano</title>
+        <description>&lt;p&gt;TL;DR
+This post is about how I write my blog posts using markdown, push it to bitbucket, automatically build the code using circleci (resulting in static html pages) and push the result to firebase resulting in the page you are seeing now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/code/how_to_blog.png&quot; alt=&quot;Process&quot; title=&quot;jekyll markdown - bitbucket - circleci - firebase - blog&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Summary: To setup the above chain, I used a laptop without which debugging would have been a pain. Once past the setup phase, I am able to now create a new text file on my phone, write some contents and push it to my bitbucket repository. CircleCI then gets this push notification and immediately builds it. The source in the repository is based on Jekyll. CircleCI builds this source and creates html pages out of this. CircleCI then deploys the built html files to firebase resulting in a site like this.&lt;/p&gt;
+
+&lt;p&gt;I am not going to rewrite the whole process 
+again, so I will just point to this good blog I 
+referred to:
+&lt;a href=&quot;https://chris.banes.me/2017/06/02/jekyll-firebase/&quot;&gt;https://chris.banes.me/2017/06/02/jekyll-firebase/&lt;/a&gt;
+There are some differences you need to take care though. One of the biggest differences is that circleCI is now version 2.0 and hence the configuration needs to be different. Following is my configuration: &lt;a href=&quot;https://gist.github.com/ashwin67/76065e3f95d187b03290bb36f387e3f2&quot;&gt;Gist Yml configuration&lt;/a&gt;.
+Probably this configuration could be optimized further to cache some things and run the build faster. One important aspect to note when running the jobs in circleCI is that each of the jobs is independent and data is not shared between them unless you do it specifically. My configuration above takes care of that.&lt;/p&gt;
+
+&lt;p&gt;Once you have this working, push to deploy from android becomes quite easy. You just have to install a terminal such as &lt;a href=&quot;https://wiki.termux.com/wiki/Main_Page&quot;&gt;termux&lt;/a&gt; on your phone. Then install ssh, git and some editor such as nano and you have all that you need. Then write a post in the jekyll posts folder and push it to your repo through the terminal and see it deploy automatically.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+        <link>https://ashwinupadhyaya.com/Blogging-from-phone-git-nano/</link>
+        <guid isPermaLink="true">https://ashwinupadhyaya.com/Blogging-from-phone-git-nano/</guid>
+        
+        
+        <category>New</category>
+        
+      </item>
+    
+      <item>
+        <title>Ola Portugal</title>
+        <description>&lt;p&gt;We got out of the Porto Aeroporto and saw an entirely different kind of Europe. Since I had only seen Germany and its surrounding countries so far, I never thought there would be an Europe where house balconies would have cloth lines, people would talk loud and dance on the streets and cats rule. But here were and I loved it. There is a sense of relaxation in the air, just like the slow metros and trams that traverse the cities.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/portugal/porto_boats.jpg&quot; alt=&quot;Boats at Porto&quot; title=&quot;The Explorers and their boats&quot; /&gt;
+Once these boats would have sailed the world’s seas and brought riches to the people here.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/portugal/sao_bento.jpg&quot; alt=&quot;Sao Bento Train Station&quot; title=&quot;A Rich Train Station&quot; /&gt;
+The Frescoes here tell the story of how rich they once must have been.&lt;/p&gt;
+
+&lt;p&gt;Lisbon is a bigger city with a lot more tourist attractions; The iconic yellow tram, the pretty neighborhoods and the view of the city itself.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/portugal/portugal.jpg&quot; alt=&quot;Tram&quot; title=&quot;The Icon&quot; /&gt;
+A lot of people cram inside the trams. And an equal number pose in front of them for photos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/portugal/lisbon.jpg&quot; alt=&quot;Lisbon&quot; /&gt;
+The Santa Justa from where we took this picture was built by one of Eiffel’s (the tower guy) students and is a big attraction.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/portugal/baixa_se_chiado.jpg&quot; alt=&quot;Neighborhood&quot; title=&quot;Maybe Baixa or Se or Chiado&quot; /&gt;
+Walking along these neighborhoods is one the best parts of traveling in Lisbon.&lt;/p&gt;
+
+&lt;p&gt;This was one of the largest and longest lived empires in history which we have learned so much in school. Bartolomeu Diaz and Vasco Da Gama are names known to everyone. I learned that the empire truly ended only in 1999! I am not an admirer of empire but I am surely an admirer of history and sustaining a global empire for 6 centuries truly is something. The country is so small but its language is spoken by a quarter billion people across the world! The original explorers surely wouldn’t have thought about their impacts when they started all of it. And then history just happened.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/portugal/explorers.jpg&quot; alt=&quot;Explorers&quot; title=&quot;The ship&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+        <link>https://ashwinupadhyaya.com/Ola-Portugal/</link>
+        <guid isPermaLink="true">https://ashwinupadhyaya.com/Ola-Portugal/</guid>
+        
+        
+        <category>New</category>
+        
+      </item>
+    
+      <item>
+        <title>Beautiful Austria</title>
+        <description>&lt;p&gt;Whenever I have heard people talking about traveling Europe, it is mostly about Paris, Switzerland, London etc but only a few times do I hear about Austria. And that is strange. Because, Austria has history, natural beauty, grand palaces all in one country and the tourism is so well developed. In all my journeys through Europe, Austria has been the easiest.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/austria/hohensalzburg.jpg&quot; alt=&quot;HohenSalzburg&quot; title=&quot;You just need to look out of the hotel window&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.innsbruck.info/en/experience/innsbruck-card.html&quot;&gt;24/48-Hour city passes&lt;/a&gt; in most cities allow you to enter museums, palaces, special shows, boat rides, local transport and even the cable cars! The €25 for Salzburg city pass’ paid itself after just one cable car journey to the Unterberg mountain. I have bought this card at Salzburg, Vienna and Innsbruck and is totally worth the price. Also, the fact that it is 24 hour and not limited to a certain day means you can plan things better. The only downside is that the shop which sells this normally opens at 9 AM which is a bit late for someone who wants to start their day earlier.&lt;/li&gt;
+  &lt;li&gt;Public transportation is extensive, reliable and is well integrated so you do not spend your time thinking which ticket to buy. Contrast to Paris where I would spend half my time thinking if the ticket I validated in a metro would be valid in a bus. Similarly, in the Netherlands, I would be forced to buy a card with an electronic chip (paying extra) even if it was for one or two journeys. Austria though has built almost everything with the tourist in mind.&lt;/li&gt;
+  &lt;li&gt;Even as a vegetarian, it is easy to find good food in Austria with so many Indian and Italian restaurants around. There were vegan restaurants too in all the cities I visited.&lt;/li&gt;
+  &lt;li&gt;My son was 2 years and 8 months old when we first went to Vienna. You will have to walk a lot and hence a baby stroller is absolutely necessary. The good thing is that the infrastructure is so perfect, I don’t remember folding the stroller and carrying my son anywhere. Elevators, ramps are everywhere and most museums, palaces etc allow you to enter with the stroller.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/austria/unterberg.jpg&quot; alt=&quot;May in Salzburg&quot; title=&quot;Unterberg, the mountain overlooking Salzburg&quot; /&gt;
+Just 25 minutes from the Salzburg city center by local bus, a cable car up and you are on the Alps.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/austria/heilbrunn.jpg&quot; alt=&quot;Trick Fountains&quot; title=&quot;The funny fountains of a king, well preserved&quot; /&gt;
+Heilbrunn, Mirabel and Hohensalzburg cannot be missed in a Salzburg itinerary&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/austria/inside_schonbrunn.jpg&quot; alt=&quot;Gloriette&quot; title=&quot;Vienna tried to compete with Paris&quot; /&gt;
+The Schonbrunn palace grounds are so large, you need an entire day for this&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/austria/zoo_schonbrunn.jpg&quot; alt=&quot;Schonbrunn zoo&quot; title=&quot;The royals and their zoos&quot; /&gt;
+There is also a zoo inside the palace grounds&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/austria/nhm.jpg&quot; alt=&quot;Natural History museum&quot; title=&quot;All in the name of science&quot; /&gt;
+This museum is just one among the various museums in Wien&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/austria/wien_danube.jpg&quot; alt=&quot;Danube in Wien&quot; title=&quot;The longest river of Europe (or is it second?)&quot; /&gt;
+The Danube grows and grows as it flows towards the black sea. As seen from Donauturm in Wien.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/austria/wien_parliament.jpg&quot; alt=&quot;Wien Parliament&quot; title=&quot;Hope the winds don't change&quot; /&gt;
+Being an Indian, I have visited the Indian parliament 3 times but have never been able to even set foot on its steps (security I understand but I am sad). Here in Vienna, I had snacks sitting on the steps. Strange and sad.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/austria/werfen.jpg&quot; alt=&quot;Werfen&quot; title=&quot;Today, my hotel room looks down upon a once feared castle&quot; /&gt;
+The lesser known places in Austria are beautiful too. This one is Werfen. Hallstatt is another which I haven’t visited yet.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+        <link>https://ashwinupadhyaya.com/Beautiful-Austria/</link>
+        <guid isPermaLink="true">https://ashwinupadhyaya.com/Beautiful-Austria/</guid>
+        
+        
+        <category>New</category>
+        
+      </item>
+    
+  </channel>
+</rss>
