@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Have you read the poem 'If' by Rudyard Kipling? If not, I think you should. I think life is too precious to be squandered. So, I try to make the most of it. That poem 'If' is my guiding light along life's journey.
-
-Blog Contents-->
-2015 - 2018: Didn't write much
-2014 and before: I wrote a lot about cycling, running, entrepreneurship, trekking and a lot of nonsense (which I want to delete but have retained for autobiographical purpose).
+I am an engineer. And I enjoy being that.
