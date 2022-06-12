@@ -3,13 +3,6 @@ layout: post
 title: Electric car charging
 date: 2021-07-17
 img: thumbnails/car_charging.jpg
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- New
 ---
 Electric cars are great. Except for the upfront cost of buying the car, every other aspect is great. One of the most important considerations is about the charging infrastructure. We bought the car more than 3 months back and learnt several new things.
 

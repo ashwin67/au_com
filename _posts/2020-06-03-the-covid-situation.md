@@ -3,13 +3,6 @@ layout: post
 title: The covid situation
 date: 2020-06-03
 img: thumbnails/current_affairs.jpg
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- New
 ---
 
 Until 2019, things looked bright everywhere. Millions of people coming out of poverty everywhere. GDP numbers of almost every country increasing year after year. Billionaires were increasing. The world seemed to be really marching at full speed. There were geopolitical issues and wars in some parts of the world threatening to slow this forward march. But who would have thought of a complete brake on the the world's capitalistic machinery!

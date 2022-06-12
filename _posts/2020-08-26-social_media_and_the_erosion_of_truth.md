@@ -3,13 +3,6 @@ layout: post
 title: Social media and the erosion of truth
 date: 2020-08-26
 img: thumbnails/socialmedia.png
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- New
 ---
 
 Of all the changes in last decade, probably the biggest of consequence is the erosion of truth. Twenty years back, if a person told you that he believes the sky is just a curtain above us hiding aliens from us, he would have been laughed at. Today though, he could easily create a community of like-minded believers and feed on each other's madness. Am I exaggerating? Just check the number of believers in [a flat earth](https://en.wikipedia.org/wiki/Modern_flat_Earth_societies) or the number of Qanon supporters.
