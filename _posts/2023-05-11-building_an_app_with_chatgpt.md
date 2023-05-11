@@ -7,7 +7,7 @@ img: thumbnails/computer.png
 
 Last month, I started to build a personal finance app using OpenAI's ChatGPT. Over the course of 30 hours, I saw my app idea come to life, all thanks to the power of AI. In this post, I'll share my experience and the lessons I learned while working with ChatGPT.
 
-The code can be found here: https://github.com/ashwin67/finhandle
+The code can be found here: [https://github.com/ashwin67/finhandle](https://github.com/ashwin67/finhandle)
 
 ## ChatGPT as a personal assistant
 
